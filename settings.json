@@ -1,0 +1,122 @@
+{
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "workbench.editor.wrapTabs": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.revealIfOpen": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.inlayHints.padding": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+  "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.lintTask.enable": true,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "material-icon-theme.folders.color": "#90a4ae",
+  "workbench.colorTheme": "Monokai-Contrast",
+  "gitlab-mr.targetBranch": "main",
+  "gitlab-mr.accessTokens": {
+    "gitlab.hmc.co.kr": "26094a4c0c88970c143468fa4c9bed8d0e95a0f88414252cf60f3ebfd15a5459587e797cc4ed14baa0f36a42e4c39e466a56d1529d6a5a5401c2372191cc36046c8f4d8327ad6260a71df32ba24206be"
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#000000",
+    "sideBar.background": "#121212",
+    "panel.background": "#080808",
+    "terminal.background": "#141313",
+    "tab.activeBackground": "#072300e4",
+    "tab.activeBorder": "#24ff03df",
+    "[Monokai-Contrast]": {
+      "editor.findMatchBorder": "#ff0000",
+      "editor.findMatchBackground": "#7c820700",
+      "editor.findMatchHighlightBorder": "#d5cc1ae0",
+      "editor.findMatchHighlightBackground": "#00000000",
+      "editor.findRangeHighlightBackground": "#96303000",
+      "editor.selectionBackground": "#ee00ffd6",
+      "editor.wordHighlightBackground": "#00000000",
+      "editor.wordHighlightBorder": "#00fbff",
+      "editor.wordHighlightStrongBackground": "#00000000",
+      "editor.wordHighlightStrongBorder": "#00fbff",
+      "diffEditor.insertedTextBackground": "#089c085d",
+      "diffEditor.removedTextBackground": "#ff000055"
+    }
+  },
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "workbench.settings.applyToAllProfiles": [],
+  "editor.fontLigatures": true,
+  "editor.codeLensFontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "json.schemas": [],
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "explorer.confirmDelete": false,
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]",
+    "NOTE",
+    "REVIEW",
+    "QUESTION"
+  ],
+  "todo-tree.highlights.defaultHighlight": {},
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workspaceSidebar.depth": 3,
+  "debug.console.fontSize": 14,
+  "chat.editor.fontSize": 14,
+  "editor.mouseWheelZoom": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "markdown-preview-enhanced.breakOnSingleNewLine": false,
+  "terminal.integrated.scrollback": 100000,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "editor.fontSize": 13,
+  "editor.fontFamily": "Fira Code",
+  "editor.accessibilitySupport": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "cursor.cpp.disabledLanguages": ["plaintext", "markdown", "scminput"],
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "cursor.general.disableHttp2": true,
+  "workbench.editor.enablePreview": false
+}
